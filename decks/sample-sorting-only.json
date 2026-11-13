@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "sample-sorting-only",
+  "name": "Sample: Fixed piles (no cross-pile moves)",
+  "description": "Illustrative demo deck: cards stay in their own pile and can only be re-ordered. Capitalisation is preserved exactly as written.",
+  "version": "1.0.0",
+  "piles": [
+    {
+      "id": "beginning",
+      "label": "Beginning",
+      "cards": [
+        {
+          "id": "b-b",
+          "text": "B",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-d",
+          "text": "D",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-f",
+          "text": "F",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-sh",
+          "text": "Sh",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-th",
+          "text": "Th",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-ch",
+          "text": "Ch",
+          "category": "DG",
+          "lesson": 1
+        }
+      ]
+    },
+    {
+      "id": "middle",
+      "label": "Middle",
+      "cards": [
+        {
+          "id": "m-a",
+          "text": "a",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-e",
+          "text": "e",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-i",
+          "text": "i",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-o",
+          "text": "o",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-u",
+          "text": "u",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-oo",
+          "text": "oo",
+          "category": "P",
+          "lesson": 1
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "Ending",
+      "cards": [
+        {
+          "id": "e-ck",
+          "text": "ck",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-ng",
+          "text": "ng",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-nk",
+          "text": "nk",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-sh",
+          "text": "sh",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-tch",
+          "text": "tch",
+          "category": "T",
+          "lesson": 1
+        },
+        {
+          "id": "e-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "allowCrossPileMoves": false,
+    "allowReorder": true,
+    "allowFlip": false,
+    "initialShuffle": false
+  },
+  "tags": [
+    "sample",
+    "rules"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "sample-cvc-short-vowels",
+  "name": "Sample: Short vowels (CVC)",
+  "description": "Illustrative demo deck: single consonants with short vowels. Not a complete phonics curriculum; some combinations are real words, some are nonsense.",
+  "version": "1.0.0",
+  "piles": [
+    {
+      "id": "beginning",
+      "label": "Beginning sound",
+      "cards": [
+        {
+          "id": "b-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-c",
+          "text": "c",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-f",
+          "text": "f",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-g",
+          "text": "g",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-h",
+          "text": "h",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-j",
+          "text": "j",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-k",
+          "text": "k",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-l",
+          "text": "l",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-n",
+          "text": "n",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-r",
+          "text": "r",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-s",
+          "text": "s",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-v",
+          "text": "v",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-w",
+          "text": "w",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-z",
+          "text": "z",
+          "category": "C",
+          "lesson": 1
+        }
+      ]
+    },
+    {
+      "id": "middle",
+      "label": "Middle sound",
+      "cards": [
+        {
+          "id": "m-a",
+          "text": "a",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-e",
+          "text": "e",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-i",
+          "text": "i",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-o",
+          "text": "o",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-u",
+          "text": "u",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "Ending sound",
+      "cards": [
+        {
+          "id": "e-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-g",
+          "text": "g",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-n",
+          "text": "n",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-x",
+          "text": "x",
+          "category": "C",
+          "lesson": 1
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "allowCrossPileMoves": true,
+    "allowReorder": true,
+    "allowFlip": false,
+    "initialShuffle": false
+  },
+  "tags": [
+    "sample",
+    "cvc",
+    "short-vowels"
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 1,
+  "id": "skills-upto-16",
+  "name": "Skills · lessons 1–8, 10–12, 14–16",
+  "description": "Skills lessons 1–8, 10–12, 14–16 (66 cards). Cumulative: includes every earlier lesson.",
+  "version": "1.0.0",
+  "piles": [
+    {
+      "id": "beginning",
+      "label": "Beginning",
+      "cards": [
+        {
+          "id": "b-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-s",
+          "text": "s",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-c",
+          "text": "c",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-f",
+          "text": "f",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-r",
+          "text": "r",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-h",
+          "text": "h",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-j",
+          "text": "j",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-n",
+          "text": "n",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-l",
+          "text": "l",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "b-v",
+          "text": "v",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "b-g",
+          "text": "g",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "b-w",
+          "text": "w",
+          "category": "C",
+          "lesson": 4
+        },
+        {
+          "id": "b-k",
+          "text": "k",
+          "category": "C",
+          "lesson": 5
+        },
+        {
+          "id": "b-qu",
+          "text": "qu",
+          "category": "DG",
+          "lesson": 6
+        },
+        {
+          "id": "b-y",
+          "text": "y",
+          "category": "C",
+          "lesson": 6
+        },
+        {
+          "id": "b-z",
+          "text": "z",
+          "category": "C",
+          "lesson": 6
+        },
+        {
+          "id": "b-ch",
+          "text": "ch",
+          "category": "DG",
+          "lesson": 11
+        },
+        {
+          "id": "b-sh",
+          "text": "sh",
+          "category": "DG",
+          "lesson": 11
+        },
+        {
+          "id": "b-wh",
+          "text": "wh",
+          "category": "DG",
+          "lesson": 11
+        },
+        {
+          "id": "b-th",
+          "text": "th",
+          "category": "DG",
+          "count": "2",
+          "lesson": 11
+        },
+        {
+          "id": "b-sc",
+          "text": "sc",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-sk",
+          "text": "sk",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-sm",
+          "text": "sm",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-sn",
+          "text": "sn",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-sp",
+          "text": "sp",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-st",
+          "text": "st",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-squ",
+          "text": "squ",
+          "category": "T",
+          "lesson": 14
+        },
+        {
+          "id": "b-sw",
+          "text": "sw",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-tw",
+          "text": "tw",
+          "category": "B",
+          "lesson": 14
+        },
+        {
+          "id": "b-bl",
+          "text": "bl",
+          "category": "B",
+          "lesson": 15
+        },
+        {
+          "id": "b-cl",
+          "text": "cl",
+          "category": "B",
+          "lesson": 15
+        },
+        {
+          "id": "b-fl",
+          "text": "fl",
+          "category": "B",
+          "lesson": 15
+        },
+        {
+          "id": "b-gl",
+          "text": "gl",
+          "category": "B",
+          "lesson": 15
+        },
+        {
+          "id": "b-pl",
+          "text": "pl",
+          "category": "B",
+          "lesson": 15
+        },
+        {
+          "id": "b-sl",
+          "text": "sl",
+          "category": "B",
+          "lesson": 15
+        },
+        {
+          "id": "b-br",
+          "text": "br",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-cr",
+          "text": "cr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-dr",
+          "text": "dr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-fr",
+          "text": "fr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-gr",
+          "text": "gr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-pr",
+          "text": "pr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-tr",
+          "text": "tr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-sr",
+          "text": "sr",
+          "category": "B",
+          "lesson": 16
+        },
+        {
+          "id": "b-wr",
+          "text": "wr",
+          "category": "DG",
+          "lesson": 16
+        }
+      ]
+    },
+    {
+      "id": "middle",
+      "label": "Middle",
+      "cards": [
+        {
+          "id": "m-a",
+          "text": "a",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-i",
+          "text": "i",
+          "category": "V",
+          "count": "2",
+          "lesson": 4
+        },
+        {
+          "id": "m-o",
+          "text": "o",
+          "category": "V",
+          "count": "2",
+          "lesson": 7
+        },
+        {
+          "id": "m-ink",
+          "text": "ink",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ank",
+          "text": "ank",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-onk",
+          "text": "onk",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-unk",
+          "text": "unk",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ing",
+          "text": "ing",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ang",
+          "text": "ang",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ong",
+          "text": "ong",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ung",
+          "text": "ung",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-e",
+          "text": "e",
+          "category": "V",
+          "count": "2",
+          "lesson": 12
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "Ending",
+      "cards": [
+        {
+          "id": "e-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-s",
+          "text": "s",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-f",
+          "text": "f",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-n",
+          "text": "n",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "e-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "e-l",
+          "text": "l",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "e-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "e-g",
+          "text": "g",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "e-ck",
+          "text": "ck",
+          "category": "DG",
+          "lesson": 5
+        },
+        {
+          "id": "e-x",
+          "text": "x",
+          "category": "B",
+          "lesson": 6
+        },
+        {
+          "id": "e-ff",
+          "text": "ff",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-ll",
+          "text": "ll",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-ss",
+          "text": "ss",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-zz",
+          "text": "zz",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-ch",
+          "text": "ch",
+          "category": "DG",
+          "lesson": 11
+        },
+        {
+          "id": "e-sh",
+          "text": "sh",
+          "category": "DG",
+          "lesson": 11
+        },
+        {
+          "id": "e-th",
+          "text": "th",
+          "category": "DG",
+          "count": "2",
+          "lesson": 11
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "allowCrossPileMoves": false,
+    "allowReorder": true,
+    "allowFlip": false,
+    "initialShuffle": true
+  },
+  "tags": [
+    "skills",
+    "imported"
+  ]
+}

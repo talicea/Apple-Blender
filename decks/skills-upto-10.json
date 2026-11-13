@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "id": "skills-upto-10",
+  "name": "Skills · lessons 1–8, 10",
+  "description": "Skills lessons 1–8, 10 (37 cards). Cumulative: includes every earlier lesson.",
+  "version": "1.0.0",
+  "piles": [
+    {
+      "id": "beginning",
+      "label": "Beginning",
+      "cards": [
+        {
+          "id": "b-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-s",
+          "text": "s",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-c",
+          "text": "c",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-f",
+          "text": "f",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-r",
+          "text": "r",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-h",
+          "text": "h",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-j",
+          "text": "j",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-n",
+          "text": "n",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-l",
+          "text": "l",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "b-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "b-v",
+          "text": "v",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "b-g",
+          "text": "g",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "b-w",
+          "text": "w",
+          "category": "C",
+          "lesson": 4
+        },
+        {
+          "id": "b-k",
+          "text": "k",
+          "category": "C",
+          "lesson": 5
+        },
+        {
+          "id": "b-qu",
+          "text": "qu",
+          "category": "DG",
+          "lesson": 6
+        },
+        {
+          "id": "b-y",
+          "text": "y",
+          "category": "C",
+          "lesson": 6
+        },
+        {
+          "id": "b-z",
+          "text": "z",
+          "category": "C",
+          "lesson": 6
+        }
+      ]
+    },
+    {
+      "id": "middle",
+      "label": "Middle",
+      "cards": [
+        {
+          "id": "m-a",
+          "text": "a",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-i",
+          "text": "i",
+          "category": "V",
+          "count": "2",
+          "lesson": 4
+        },
+        {
+          "id": "m-o",
+          "text": "o",
+          "category": "V",
+          "count": "2",
+          "lesson": 7
+        },
+        {
+          "id": "m-ink",
+          "text": "ink",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ank",
+          "text": "ank",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-onk",
+          "text": "onk",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-unk",
+          "text": "unk",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ing",
+          "text": "ing",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ang",
+          "text": "ang",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ong",
+          "text": "ong",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        },
+        {
+          "id": "m-ung",
+          "text": "ung",
+          "category": "T",
+          "mono": true,
+          "lesson": 10
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "Ending",
+      "cards": [
+        {
+          "id": "e-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-s",
+          "text": "s",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-f",
+          "text": "f",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-n",
+          "text": "n",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "e-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "e-l",
+          "text": "l",
+          "category": "C",
+          "lesson": 2
+        },
+        {
+          "id": "e-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "e-g",
+          "text": "g",
+          "category": "C",
+          "lesson": 3
+        },
+        {
+          "id": "e-ck",
+          "text": "ck",
+          "category": "DG",
+          "lesson": 5
+        },
+        {
+          "id": "e-x",
+          "text": "x",
+          "category": "B",
+          "lesson": 6
+        },
+        {
+          "id": "e-ff",
+          "text": "ff",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-ll",
+          "text": "ll",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-ss",
+          "text": "ss",
+          "category": "DG",
+          "lesson": 8
+        },
+        {
+          "id": "e-zz",
+          "text": "zz",
+          "category": "DG",
+          "lesson": 8
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "allowCrossPileMoves": false,
+    "allowReorder": true,
+    "allowFlip": false,
+    "initialShuffle": true
+  },
+  "tags": [
+    "skills",
+    "imported"
+  ]
+}

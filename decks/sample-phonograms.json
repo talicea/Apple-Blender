@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "id": "sample-phonograms",
+  "name": "Sample: Multi-letter phonograms",
+  "description": "Illustrative demo deck showing multi-letter cards such as sh, ck, tch, ight. Teachers choose which combinations suit the lesson.",
+  "version": "1.0.0",
+  "piles": [
+    {
+      "id": "beginning",
+      "label": "Beginning",
+      "cards": [
+        {
+          "id": "b-sh",
+          "text": "sh",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-ch",
+          "text": "ch",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-th",
+          "text": "th",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-wh",
+          "text": "wh",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-ph",
+          "text": "ph",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-kn",
+          "text": "kn",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-wr",
+          "text": "wr",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "b-str",
+          "text": "str",
+          "category": "B",
+          "lesson": 1
+        },
+        {
+          "id": "b-spl",
+          "text": "spl",
+          "category": "B",
+          "lesson": 1
+        },
+        {
+          "id": "b-b",
+          "text": "b",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-d",
+          "text": "d",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "b-m",
+          "text": "m",
+          "category": "C",
+          "lesson": 1
+        }
+      ]
+    },
+    {
+      "id": "middle",
+      "label": "Middle",
+      "cards": [
+        {
+          "id": "m-a",
+          "text": "a",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-e",
+          "text": "e",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-i",
+          "text": "i",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-o",
+          "text": "o",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-u",
+          "text": "u",
+          "category": "V",
+          "count": "2",
+          "lesson": 1
+        },
+        {
+          "id": "m-ai",
+          "text": "ai",
+          "category": "P",
+          "lesson": 1
+        },
+        {
+          "id": "m-ee",
+          "text": "ee",
+          "category": "P",
+          "lesson": 1
+        },
+        {
+          "id": "m-oa",
+          "text": "oa",
+          "category": "P",
+          "lesson": 1
+        },
+        {
+          "id": "m-oo",
+          "text": "oo",
+          "category": "P",
+          "lesson": 1
+        },
+        {
+          "id": "m-ou",
+          "text": "ou",
+          "category": "DP",
+          "lesson": 1
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "Ending",
+      "cards": [
+        {
+          "id": "e-ck",
+          "text": "ck",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-tch",
+          "text": "tch",
+          "category": "T",
+          "lesson": 1
+        },
+        {
+          "id": "e-dge",
+          "text": "dge",
+          "category": "T",
+          "lesson": 1
+        },
+        {
+          "id": "e-ng",
+          "text": "ng",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-nk",
+          "text": "nk",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-ght",
+          "text": "ght",
+          "category": "T",
+          "lesson": 1
+        },
+        {
+          "id": "e-sh",
+          "text": "sh",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-ch",
+          "text": "ch",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-th",
+          "text": "th",
+          "category": "DG",
+          "lesson": 1
+        },
+        {
+          "id": "e-t",
+          "text": "t",
+          "category": "C",
+          "lesson": 1
+        },
+        {
+          "id": "e-p",
+          "text": "p",
+          "category": "C",
+          "lesson": 1
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "allowCrossPileMoves": true,
+    "allowReorder": true,
+    "allowFlip": false,
+    "initialShuffle": false
+  },
+  "tags": [
+    "sample",
+    "phonograms",
+    "digraphs"
+  ]
+}

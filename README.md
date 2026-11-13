@@ -1,4 +1,4 @@
-# Phonics Piles
+# Connections Blending Game
 
 A real-time, browser-based classroom card game for phonics instruction. A teacher shows three piles of cards
 (beginning / middle / ending sounds) whose top cards form a nonsense word; students join from their own devices with a

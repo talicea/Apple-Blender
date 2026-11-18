@@ -653,58 +653,6 @@
           "text": "-nd",
           "category": "B",
           "lesson": 18
-        },
-        {
-          "id": "e-ar",
-          "text": "ar",
-          "category": "P",
-          "count": "2",
-          "lesson": 23
-        },
-        {
-          "id": "e-or",
-          "text": "or",
-          "category": "P",
-          "count": "2",
-          "lesson": 24
-        },
-        {
-          "id": "e-ear",
-          "text": "ear",
-          "category": "T",
-          "lesson": 26
-        },
-        {
-          "id": "e-ay",
-          "text": "ay",
-          "category": "P",
-          "lesson": 27
-        },
-        {
-          "id": "e-ee",
-          "text": "ee",
-          "category": "P",
-          "lesson": 28
-        },
-        {
-          "id": "e-ie",
-          "text": "ie",
-          "category": "P",
-          "count": "2",
-          "lesson": 28
-        },
-        {
-          "id": "e-ea",
-          "text": "ea",
-          "category": "P",
-          "count": "2",
-          "lesson": 28
-        },
-        {
-          "id": "e-ey",
-          "text": "ey",
-          "category": "P",
-          "lesson": 28
         }
       ]
     }
